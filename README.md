@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋  
+I’m **Jim Stevens** (GitHub handle: `rwdevlead`)  
+A full-stack developer who builds secure, scalable, maintainable software using real-world practices.  
 
-<!--
-**rwdevlead/rwdevlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect & Follow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [jstevens-leaddev](https://www.linkedin.com/in/jstevens-leaddev)  
+ 
+---
+
+> “Build software that can be understood, extended, and maintained — not just used.”
+
+---
+
+Thanks for stopping by!  
+Let’s build something real together.  
