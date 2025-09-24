@@ -1,6 +1,8 @@
 # Hi there 👋  
 I’m **Jim Stevens** (GitHub handle: `rwdevlead`)  
-A full-stack developer who builds secure, scalable, maintainable software using real-world practices.  
+A full-stack developer who is passionate about clean architecture, performance, and DevOps best practices  
+- Focused on designing enterprise-grade systems that are easy to evolve  
+- Lifelong learner: always exploring new languages, tools, and patterns  
 
 ---
 
